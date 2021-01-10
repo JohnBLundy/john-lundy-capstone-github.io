@@ -1,3 +1,10 @@
+theme: jekyll-theme-cayman
+title: Welcome to John-Lundy homepage.
+description: Capstone project.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/John-Lundy/john-lundy-capstone-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
